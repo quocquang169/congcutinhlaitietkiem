@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Tiêu đề ứng dụng
-st.title("💰 Công Cụ Tính Lãi Gửi Tiết Kiệm")
+st.title("💰 Công Cụ Tính Lãi Gửi Tiết Kiệm _ Lưu Quốc Quang")
 st.markdown("Nhập thông tin khoản tiền gửi của bạn để tính toán tiền lãi chi tiết.")
 
 st.divider()
